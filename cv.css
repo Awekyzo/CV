@@ -1,0 +1,57 @@
+.page{
+	width: 800px;
+	background: #fff;
+	margin: 25px auto;
+	font-family: 'Source sans pro', Calibri, Tahoma, sans-serif;
+	font-size: 16px;
+}
+
+body{
+	background: linear-gradient(to right, #3525af,#9153c9)
+}
+
+
+.informationphoto{
+	height: 100px;
+}
+
+.information{
+	float: left;
+}
+
+.photo{
+	float: right;
+	padding: 20px 0;
+}
+
+
+
+}
+.section{
+	margin-bottom: 70px;
+	
+}
+
+.content
+{
+	display: flex;
+}
+
+.section-gauche{
+	margin-right: 50px;
+
+	
+	
+}
+
+.section-droite{
+	margin-left: 150px;
+	margin-left: 150px;
+}
+
+.h2{
+	font-size: 28px
+	color:red;
+	
+}
+
